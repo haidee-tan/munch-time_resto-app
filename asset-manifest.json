@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/munch-time_resto-app/static/css/main.10fd4353.chunk.css",
+    "main.js": "/munch-time_resto-app/static/js/main.b6fcdf2b.chunk.js",
+    "main.js.map": "/munch-time_resto-app/static/js/main.b6fcdf2b.chunk.js.map",
+    "runtime-main.js": "/munch-time_resto-app/static/js/runtime-main.9ed8fa68.js",
+    "runtime-main.js.map": "/munch-time_resto-app/static/js/runtime-main.9ed8fa68.js.map",
+    "static/js/2.34867556.chunk.js": "/munch-time_resto-app/static/js/2.34867556.chunk.js",
+    "static/js/2.34867556.chunk.js.map": "/munch-time_resto-app/static/js/2.34867556.chunk.js.map",
+    "static/js/3.14d1c5f0.chunk.js": "/munch-time_resto-app/static/js/3.14d1c5f0.chunk.js",
+    "static/js/3.14d1c5f0.chunk.js.map": "/munch-time_resto-app/static/js/3.14d1c5f0.chunk.js.map",
+    "index.html": "/munch-time_resto-app/index.html",
+    "static/css/main.10fd4353.chunk.css.map": "/munch-time_resto-app/static/css/main.10fd4353.chunk.css.map",
+    "static/js/2.34867556.chunk.js.LICENSE.txt": "/munch-time_resto-app/static/js/2.34867556.chunk.js.LICENSE.txt",
+    "static/media/Bacon.e459c4a7.PNG": "/munch-time_resto-app/static/media/Bacon.e459c4a7.PNG",
+    "static/media/Beef.2cc7a543.PNG": "/munch-time_resto-app/static/media/Beef.2cc7a543.PNG",
+    "static/media/Green-Bell-Pepper.84bcfac5.PNG": "/munch-time_resto-app/static/media/Green-Bell-Pepper.84bcfac5.PNG",
+    "static/media/Ham.8a5e84e0.PNG": "/munch-time_resto-app/static/media/Ham.8a5e84e0.PNG",
+    "static/media/Mozzarella-Cheese.3705d76b.PNG": "/munch-time_resto-app/static/media/Mozzarella-Cheese.3705d76b.PNG",
+    "static/media/Parsley-Leaves.f22f89c0.PNG": "/munch-time_resto-app/static/media/Parsley-Leaves.f22f89c0.PNG",
+    "static/media/Pepperoni.d8d4d9d1.PNG": "/munch-time_resto-app/static/media/Pepperoni.d8d4d9d1.PNG",
+    "static/media/Pineapple-Chunks.cd14b9a7.PNG": "/munch-time_resto-app/static/media/Pineapple-Chunks.cd14b9a7.PNG",
+    "static/media/edit.bd176f6f.png": "/munch-time_resto-app/static/media/edit.bd176f6f.png",
+    "static/media/icon.8fb776d8.png": "/munch-time_resto-app/static/media/icon.8fb776d8.png",
+    "static/media/minus.8bca3089.png": "/munch-time_resto-app/static/media/minus.8bca3089.png",
+    "static/media/mushroom.fa9db136.png": "/munch-time_resto-app/static/media/mushroom.fa9db136.png",
+    "static/media/plus.04b527f2.png": "/munch-time_resto-app/static/media/plus.04b527f2.png",
+    "static/media/remove.f2ffd9d2.png": "/munch-time_resto-app/static/media/remove.f2ffd9d2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9ed8fa68.js",
+    "static/js/2.34867556.chunk.js",
+    "static/css/main.10fd4353.chunk.css",
+    "static/js/main.b6fcdf2b.chunk.js"
+  ]
+}
