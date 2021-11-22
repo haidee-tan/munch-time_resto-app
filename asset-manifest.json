@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/munch-time_resto-app/static/css/main.8087a8fa.chunk.css",
-    "main.js": "/munch-time_resto-app/static/js/main.756720d8.chunk.js",
-    "main.js.map": "/munch-time_resto-app/static/js/main.756720d8.chunk.js.map",
+    "main.js": "/munch-time_resto-app/static/js/main.a835ebdd.chunk.js",
+    "main.js.map": "/munch-time_resto-app/static/js/main.a835ebdd.chunk.js.map",
     "runtime-main.js": "/munch-time_resto-app/static/js/runtime-main.9ed8fa68.js",
     "runtime-main.js.map": "/munch-time_resto-app/static/js/runtime-main.9ed8fa68.js.map",
     "static/js/2.34867556.chunk.js": "/munch-time_resto-app/static/js/2.34867556.chunk.js",
@@ -31,6 +31,6 @@
     "static/js/runtime-main.9ed8fa68.js",
     "static/js/2.34867556.chunk.js",
     "static/css/main.8087a8fa.chunk.css",
-    "static/js/main.756720d8.chunk.js"
+    "static/js/main.a835ebdd.chunk.js"
   ]
 }
