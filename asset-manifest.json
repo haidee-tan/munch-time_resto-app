@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/munch-time_resto-app/static/css/main.10fd4353.chunk.css",
-    "main.js": "/munch-time_resto-app/static/js/main.b6fcdf2b.chunk.js",
-    "main.js.map": "/munch-time_resto-app/static/js/main.b6fcdf2b.chunk.js.map",
+    "main.css": "/munch-time_resto-app/static/css/main.8087a8fa.chunk.css",
+    "main.js": "/munch-time_resto-app/static/js/main.756720d8.chunk.js",
+    "main.js.map": "/munch-time_resto-app/static/js/main.756720d8.chunk.js.map",
     "runtime-main.js": "/munch-time_resto-app/static/js/runtime-main.9ed8fa68.js",
     "runtime-main.js.map": "/munch-time_resto-app/static/js/runtime-main.9ed8fa68.js.map",
     "static/js/2.34867556.chunk.js": "/munch-time_resto-app/static/js/2.34867556.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.14d1c5f0.chunk.js": "/munch-time_resto-app/static/js/3.14d1c5f0.chunk.js",
     "static/js/3.14d1c5f0.chunk.js.map": "/munch-time_resto-app/static/js/3.14d1c5f0.chunk.js.map",
     "index.html": "/munch-time_resto-app/index.html",
-    "static/css/main.10fd4353.chunk.css.map": "/munch-time_resto-app/static/css/main.10fd4353.chunk.css.map",
+    "static/css/main.8087a8fa.chunk.css.map": "/munch-time_resto-app/static/css/main.8087a8fa.chunk.css.map",
     "static/js/2.34867556.chunk.js.LICENSE.txt": "/munch-time_resto-app/static/js/2.34867556.chunk.js.LICENSE.txt",
     "static/media/Bacon.e459c4a7.PNG": "/munch-time_resto-app/static/media/Bacon.e459c4a7.PNG",
     "static/media/Beef.2cc7a543.PNG": "/munch-time_resto-app/static/media/Beef.2cc7a543.PNG",
@@ -30,7 +30,7 @@
   "entrypoints": [
     "static/js/runtime-main.9ed8fa68.js",
     "static/js/2.34867556.chunk.js",
-    "static/css/main.10fd4353.chunk.css",
-    "static/js/main.b6fcdf2b.chunk.js"
+    "static/css/main.8087a8fa.chunk.css",
+    "static/js/main.756720d8.chunk.js"
   ]
 }
